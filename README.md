@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moquito64
-- 👀 I’m interested in docker, python, and Nomad
-- 🌱 I’m currently learning Kubernetes and Nomad
+- 👀 I’m interested in Rust, Python, and Containers.
+- 🌱 I’m currently working on learning web frameworks using rust
 - 📫 How to reach me: moquito64@proton.me
 
 <!---
