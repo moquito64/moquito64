@@ -1,14 +1,14 @@
 # 👋 Hi, I’m @moquito64
 
 ## About Me:
-- 👀 I’m interested in HTMX,🐍 Python,🦀 Rust,Golang, and 🐳 Containers.
+- 👀 I’m interested in HTMX,🐍 Python,🦀 Rust, Golang, and 🐳 Containers.
 - 🌱 Systems Administrator, Information Technology Specialist, and Cloud Engineer
 - 🔍 Searching the world for the best oneliner
 - 📫 How to reach me: sblanchette@wolfandcrow.tech
 
 ## My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moquito64)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moquito64&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 moquito64/moquito64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
